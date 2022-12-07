@@ -8,14 +8,10 @@ export const Facts = ({ facts, navigate }) => {
       <ul className="fact-list">
         {facts.map((f) => (
           <li key={f.id} className="fact-item">
-            <time>{f.date ?? "Pending"}</time>
-            {f.name}
+            <time>{f.date ?? "Coming soon"}</time>
+            <h4>{f.name}</h4>
             <button
-              style={{
-                backgroundColor: "transparent",
-                border: 0,
-                cursor: "pointer",
-              }}
+              className="read-more"
               type="button"
               onClick={() => navigate(f.id)}
             >

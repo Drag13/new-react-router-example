@@ -1,10 +1,23 @@
 .fact-list {
-  text-align: "left";
-  display: "flex";
-  flex-direction: "column";
+  text-align: left;
+  display: flex;
+  flex-direction: column;
 }
 
 .fact-item {
   gap: 0.5rem;
   display: flex;
+  border-bottom: 1px solid darkgreen;
+  padding-top: 1rem;
+  justify-content: space-between;
+}
+
+.fact-item > h4 {
+  margin: 0;
+}
+
+.read-more {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
 }
