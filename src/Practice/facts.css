@@ -1,0 +1,10 @@
+.fact-list {
+  text-align: "left";
+  display: "flex";
+  flex-direction: "column";
+}
+
+.fact-item {
+  gap: 0.5rem;
+  display: flex;
+}

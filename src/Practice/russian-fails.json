@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bkr",
+    "date": "02/04/2022",
+    "name": "Banished from the Kyiv region",
+    "description": "russian was kicked off the Kyiv district"
+  },
+  {
+    "id": "lmw",
+    "date": "14/04/2022",
+    "name": "Lost moscow warship",
+    "description": "The cruiser is the largest Russian warship to be sunk in wartime since the end of World War II and the first Russian flagship sunk since the 1905 Russo-Japanese War."
+  },
+  {
+    "id": "ksi",
+    "date": "30/06/2022",
+    "name": "Kicked out of Snake island",
+    "description": "russians lost control under the strategic island in the Black Sea - Snake island"
+  },
+  {
+    "id": "saa",
+    "date": "09/08/2022",
+    "name": "Saki airport attacked",
+    "description": "First time airport in Crimea was attacked. Multiple huge explosion detected"
+  },
+  {
+    "id": "ibl",
+    "date": "10/09/2022",
+    "name": "Izym been liberated",
+    "description": "Huge win on Kharkiv region and great strategic point was taken"
+  },
+  {
+    "id": "cba",
+    "date": "08/10/2022",
+    "name": "Crimea bridge attacked",
+    "description": "Despite all efforts from russian, the Crimea bridge was highly damaged "
+  },
+  {
+    "id": "cbl",
+    "date": "11/11/2022",
+    "name": "Cherson been liberated",
+    "description": "Ukrainian forces liberated Cherson despite it been claimed as russian territory"
+  },
+  {
+    "id": "lmc",
+    "date": null,
+    "name": "Lost moscow capital",
+    "description": "Not yet happened but we all hope for this"
+  }
+]
